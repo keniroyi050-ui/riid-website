@@ -1,0 +1,206 @@
+[
+  {
+    "slug": "kingsbridge-legal",
+    "name": "Kingsbridge Legal Partners",
+    "industry": "Legal Services",
+    "category": "professional",
+    "accent": "#d8b06b",
+    "tagline": "Authority, discretion and clarity \u2014 translated into a premium digital presence.",
+    "summary": "A prestige-led concept for a Nigerian commercial law firm serving founders, institutions and high-value businesses.",
+    "features": [
+      "Editorial legal positioning",
+      "Practice-area storytelling",
+      "Consultation-first conversion path",
+      "Executive mobile experience"
+    ],
+    "visual": "Deep navy, warm ivory, muted gold, editorial serif typography and formal Nigerian corporate imagery.",
+    "image": "/assets/mockups/kingsbridge-legal.jpg"
+  },
+  {
+    "slug": "harbourline-logistics",
+    "name": "Harbourline Logistics",
+    "industry": "Shipping & Logistics",
+    "category": "logistics",
+    "accent": "#ff6b1a",
+    "tagline": "A bolder digital system for a logistics company moving goods across Nigeria and beyond.",
+    "summary": "An industrial, conversion-focused logistics concept built around credibility, quote requests and shipment visibility.",
+    "features": [
+      "Freight solution hierarchy",
+      "Quote-driven user journey",
+      "Tracking-focused interface",
+      "Apapa-to-nationwide visual language"
+    ],
+    "visual": "Midnight blue, safety orange, technical grids, port photography and motion-led route cues.",
+    "image": "/assets/mockups/harbourline-logistics.jpg"
+  },
+  {
+    "slug": "suncrest-energy",
+    "name": "Suncrest Energy",
+    "industry": "Solar & Energy",
+    "category": "energy",
+    "accent": "#2c8cff",
+    "tagline": "Clean power presented with the confidence of a serious engineering brand.",
+    "summary": "A modern solar concept for Nigerian homes, estates and businesses, designed to move visitors toward assessments and WhatsApp enquiries.",
+    "features": [
+      "Residential & commercial pathways",
+      "System sizing narrative",
+      "WhatsApp quote handoff",
+      "Nigerian installation imagery"
+    ],
+    "visual": "Royal blue, white, sky blue and restrained yellow with crisp technical typography and solar imagery.",
+    "image": "/assets/mockups/suncrest-energy.jpg"
+  },
+  {
+    "slug": "primeflow-plumbing",
+    "name": "PrimeFlow Plumbing",
+    "industry": "Home Services",
+    "category": "services",
+    "accent": "#ff5b2e",
+    "tagline": "Fast answers, clear service choices and a booking journey built for urgent customers.",
+    "summary": "A practical premium concept for a Lagos plumbing and emergency maintenance business where speed and trust matter most.",
+    "features": [
+      "Emergency-first CTA system",
+      "Service category chooser",
+      "Booking-oriented mobile layout",
+      "Location-led credibility"
+    ],
+    "visual": "Deep teal, warm white and high-visibility orange with friendly technician photography and direct UX.",
+    "image": "/assets/mockups/primeflow-plumbing.jpg"
+  },
+  {
+    "slug": "northstone-properties",
+    "name": "Northstone Properties",
+    "industry": "Luxury Real Estate",
+    "category": "real-estate",
+    "accent": "#c8a471",
+    "tagline": "Architecture, aspiration and enquiry \u2014 presented like a premium property brand.",
+    "summary": "An editorial real-estate concept for luxury homes in Lekki, Ikoyi, Victoria Island, Abuja and other premium Nigerian markets.",
+    "features": [
+      "Property discovery UX",
+      "Inspection-led conversion",
+      "Location-focused storytelling",
+      "Luxury editorial presentation"
+    ],
+    "visual": "Off-white, charcoal and champagne with cinematic architecture, restrained type and generous whitespace.",
+    "image": "/assets/mockups/northstone-properties.jpg"
+  },
+  {
+    "slug": "ivory-dental",
+    "name": "Ivory Dental Studio",
+    "industry": "Healthcare",
+    "category": "healthcare",
+    "accent": "#6cc8d8",
+    "tagline": "A calm, reassuring digital experience designed around patient confidence.",
+    "summary": "A modern private dental concept built to simplify treatment discovery and appointment enquiries for Nigerian patients.",
+    "features": [
+      "Treatment-led information design",
+      "Appointment pathway",
+      "Dentist profile system",
+      "Mobile-first patient experience"
+    ],
+    "visual": "Soft white, pale blue and sage with rounded details, bright clinical imagery and calm pacing.",
+    "image": "/assets/mockups/ivory-dental.jpg"
+  },
+  {
+    "slug": "stonebridge-developments",
+    "name": "Stonebridge Developments",
+    "industry": "Construction & Architecture",
+    "category": "construction",
+    "accent": "#df7b45",
+    "tagline": "A digital portfolio that makes serious construction work feel as considered as the buildings themselves.",
+    "summary": "An architecture-led concept for Nigerian developers and construction firms selling capability through projects, process and detail.",
+    "features": [
+      "Project-led portfolio system",
+      "Construction capability storytelling",
+      "Timeline visual language",
+      "High-intent enquiry journey"
+    ],
+    "visual": "Architectural black, warm grey, cream and terracotta with asymmetrical grids and project-led photography.",
+    "image": "/assets/mockups/stonebridge-developments.jpg"
+  },
+  {
+    "slug": "copper-table",
+    "name": "Copper Table",
+    "industry": "Restaurant & Hospitality",
+    "category": "hospitality",
+    "accent": "#c14e2b",
+    "tagline": "Warm hospitality, modern Nigerian flavour and a visual identity people remember.",
+    "summary": "A premium dining concept shaped around food discovery, reservations, private dining and catering enquiries.",
+    "features": [
+      "Food-first editorial design",
+      "Reservation conversion",
+      "Menu storytelling",
+      "Private event positioning"
+    ],
+    "visual": "Burgundy, burnt orange, cream and dark brown with rich food imagery and expressive editorial typography.",
+    "image": "/assets/mockups/copper-table.jpg"
+  },
+  {
+    "slug": "crown-and-loom",
+    "name": "Crown & Loom",
+    "industry": "Fashion & E-commerce",
+    "category": "commerce",
+    "accent": "#aa5a3c",
+    "tagline": "A Nigerian fashion concept with the confidence of an international luxury label.",
+    "summary": "A high-fashion e-commerce direction built around collections, product discovery and editorial storytelling.",
+    "features": [
+      "Collection-led shopping",
+      "Editorial campaign moments",
+      "Product-focused conversion",
+      "Premium mobile commerce"
+    ],
+    "visual": "Ivory, black and burnt sienna with full-bleed fashion photography and high-fashion typography.",
+    "image": "/assets/mockups/crown-and-loom.jpg"
+  },
+  {
+    "slug": "apex-motorworks",
+    "name": "Apex Motorworks",
+    "industry": "Automotive Service",
+    "category": "automotive",
+    "accent": "#ff641e",
+    "tagline": "Performance, precision and service confidence for modern Nigerian drivers.",
+    "summary": "A cinematic automotive concept for a premium service centre handling diagnostics, maintenance and performance work.",
+    "features": [
+      "Vehicle service booking",
+      "Package comparison",
+      "Workshop credibility",
+      "Performance-led visual system"
+    ],
+    "visual": "Matte black, off-white and electric orange with bold geometry, workshop imagery and technical motion.",
+    "image": "/assets/mockups/apex-motorworks.jpg"
+  },
+  {
+    "slug": "westbridge-academy",
+    "name": "Westbridge Academy",
+    "industry": "Private Education",
+    "category": "education",
+    "accent": "#f0b33a",
+    "tagline": "A clearer, warmer digital home for a modern Nigerian school community.",
+    "summary": "A trust-led education concept for admissions, academics, school life and parent enquiries.",
+    "features": [
+      "Admissions pathway",
+      "Academic programme structure",
+      "School-life storytelling",
+      "Parent-friendly mobile navigation"
+    ],
+    "visual": "Navy, warm white and mustard with optimistic campus imagery and structured information design.",
+    "image": "/assets/mockups/westbridge-academy.jpg"
+  },
+  {
+    "slug": "stone-and-linen",
+    "name": "Stone & Linen Interiors",
+    "industry": "Interior Design",
+    "category": "interiors",
+    "accent": "#9b9278",
+    "tagline": "A quiet, luxurious portfolio for spaces designed to be lived in.",
+    "summary": "A minimalist interior design concept built around project imagery, consultation enquiries and tasteful editorial pacing.",
+    "features": [
+      "Project gallery storytelling",
+      "Before/after direction",
+      "Consultation CTA system",
+      "Editorial image-led layouts"
+    ],
+    "visual": "Sand, stone, black and muted olive with oversized interior photography and restrained typography.",
+    "image": "/assets/mockups/stone-and-linen.jpg"
+  }
+]
